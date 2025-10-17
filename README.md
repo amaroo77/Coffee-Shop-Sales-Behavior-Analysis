@@ -1,5 +1,8 @@
 # ☕ Executive Report: Coffee Shop Sales Behavior Analysis
 
+<img width="2560" height="1707" alt="image" src="https://github.com/user-attachments/assets/ed94a5e2-8d1f-4572-b066-04ad72f7a677" />
+
+
 ---
 
 ## 1. Overview
